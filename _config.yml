@@ -1,7 +1,7 @@
 - name: Build Jekyll for GitHub Pages
   uses: actions/jekyll-build-pages@v1.0.5
 
- - name: jekyll-deploy
+- name: jekyll-deploy
    uses: DavidS/jekyll-deploy@1.1.1
   
-  theme: minima
+theme: minima
